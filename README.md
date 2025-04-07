@@ -39,7 +39,7 @@ nestjs-crud-microservices/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/nestjs-crud-microservices.git
+git clone https://github.com/deepu024/nestjs-crud-microservices.git
 cd nestjs-crud-microservices
 ```
 
